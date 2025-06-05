@@ -6,7 +6,6 @@ This project demonstrates how to fine-tune the LLaMA-3 8B model using 4-bit quan
 
 
 
-![image](https://github.com/user-attachments/assets/362d653b-c76e-45f2-9080-3ba92528aceb)
 
 
 
@@ -22,3 +21,8 @@ Automatically installs dependencies based on GPU capability.
 Supports sequence length up to 2048 tokens.
 
 Integrates LoRA-based fine-tuning and HuggingFace Hub.
+
+
+# Highlight
+
+![image](https://github.com/user-attachments/assets/362d653b-c76e-45f2-9080-3ba92528aceb)
